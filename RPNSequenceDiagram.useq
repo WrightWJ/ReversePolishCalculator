@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.2.1" icons="true" generate-combined-fragments="true">  
+  <object id="1" language="java" name="project2.OrderedList" project="project2" 
+    file="/project2/src/project2/OrderedList.java" binary="false" label="orderedList" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="70" y="0"/>  
+  </object>  
+  <object id="2" language="java" name="project2.Polynomial" project="project2" 
+    file="/project2/src/project2/Polynomial.java" binary="false" label="polynomial" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="3">      
+      <position height="84" width="0" x="0" y="233"/>    
+    </execution>    
+    <execution id="5">      
+      <position height="21" width="0" x="0" y="275"/>    
+    </execution>    
+    <execution id="6">      
+      <position height="84" width="0" x="0" y="353"/>    
+    </execution>    
+    <execution id="8">      
+      <position height="21" width="0" x="0" y="395"/>    
+    </execution>    
+    <execution id="9">      
+      <position height="84" width="0" x="0" y="501"/>    
+    </execution>    
+    <execution id="11">      
+      <position height="21" width="0" x="0" y="543"/>    
+    </execution>    
+    <execution id="13">      
+      <position height="21" width="98" x="138" y="543"/>    
+    </execution>  
+  </object>  
+  <object id="14" language="java" name="project2.RPNCalculator" project="project2" 
+    file="/project2/src/project2/RPNCalculator.java" binary="false" label="rpnCalculator" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="299" y="0"/>  
+  </object>  
+  <object id="15" language="java" name="project2.Term" project="project2" file="/project2/src/project2/Term.java" 
+    binary="false" label="term" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="465" y="0"/>    
+    <execution id="16">      
+      <position height="63" width="0" x="0" y="191"/>    
+    </execution>    
+    <execution id="19">      
+      <position height="63" width="0" x="0" y="106"/>    
+    </execution>    
+    <execution id="22">      
+      <position height="63" width="0" x="0" y="368"/>    
+    </execution>    
+    <execution id="25">      
+      <position height="63" width="0" x="0" y="311"/>    
+    </execution>    
+    <execution id="28">      
+      <position height="63" width="0" x="0" y="285"/>    
+    </execution>    
+    <execution id="31">      
+      <position height="63" width="0" x="0" y="496"/>    
+    </execution>    
+    <execution id="34">      
+      <position height="63" width="0" x="0" y="589"/>    
+    </execution>    
+    <execution id="37">      
+      <position height="63" width="0" x="0" y="694"/>    
+    </execution>  
+  </object>  
+  <object id="40" language="java" name="project2.Polynomial" project="project2" 
+    file="/project2/src/project2/Polynomial.java" binary="false" label="polynomial9" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="39">      
+      <position height="21" width="0" x="0" y="715"/>    
+    </execution>  
+  </object>  
+  <object id="41" language="java" name="project2.Polynomial" project="project2" 
+    file="/project2/src/project2/Polynomial.java" binary="false" label="polynomial8" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="36">      
+      <position height="21" width="0" x="0" y="610"/>    
+    </execution>  
+  </object>  
+  <object id="42" language="java" name="project2.Polynomial" project="project2" 
+    file="/project2/src/project2/Polynomial.java" binary="false" label="polynomial7" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="33">      
+      <position height="21" width="0" x="0" y="517"/>    
+    </execution>  
+  </object>  
+  <object id="43" language="java" name="project2.Polynomial" project="project2" 
+    file="/project2/src/project2/Polynomial.java" binary="false" label="polynomial6" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="30">      
+      <position height="21" width="0" x="0" y="306"/>    
+    </execution>  
+  </object>  
+  <object id="44" language="java" name="project2.Polynomial" project="project2" 
+    file="/project2/src/project2/Polynomial.java" binary="false" label="polynomial5" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="395" y="0"/>  
+  </object>  
+  <object id="45" language="java" name="project2.Polynomial" project="project2" 
+    file="/project2/src/project2/Polynomial.java" binary="false" label="polynomial4" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="27">      
+      <position height="21" width="0" x="0" y="332"/>    
+    </execution>  
+  </object>  
+  <object id="46" language="java" name="project2.Polynomial" project="project2" 
+    file="/project2/src/project2/Polynomial.java" binary="false" label="polynomial3" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="24">      
+      <position height="21" width="0" x="0" y="389"/>    
+    </execution>  
+  </object>  
+  <object id="47" language="java" name="project2.Polynomial" project="project2" 
+    file="/project2/src/project2/Polynomial.java" binary="false" label="polynomial2" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="21">      
+      <position height="21" width="0" x="0" y="127"/>    
+    </execution>  
+  </object>  
+  <object id="48" language="java" name="project2.Polynomial" project="project2" 
+    file="/project2/src/project2/Polynomial.java" binary="false" label="polynomial1" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="18">      
+      <position height="21" width="0" x="0" y="212"/>    
+    </execution>  
+  </object>  
+  <message id="4" operation="add(project2.Polynomial):project2.Polynomial" asynchronous="false">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="5"/>  
+  </message>  
+  <message id="7" operation="multPoly(project2.Polynomial):project2.Polynomial" asynchronous="false">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="10" operation="subPoly(project2.Polynomial):project2.Polynomial" asynchronous="false">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="11"/>  
+  </message>  
+  <message id="12" asynchronous="false">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="13"/>  
+  </message>  
+  <message id="17" operation="addTerm(project2.Term):void" asynchronous="false">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="18"/>  
+  </message>  
+  <message id="20" operation="add(project2.Polynomial):project2.Polynomial" asynchronous="false">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="21"/>  
+  </message>  
+  <message id="23" operation="changeTerm(project2.Term,double):boolean" asynchronous="false">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="24"/>  
+  </message>  
+  <message id="26" operation="multPoly(project2.Polynomial):project2.Polynomial" asynchronous="false">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="27"/>  
+  </message>  
+  <message id="29" operation="Polynomial()" asynchronous="false">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="30"/>  
+  </message>  
+  <message id="32" operation="readPolynomial(java.lang.String):boolean" asynchronous="false">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="33"/>  
+  </message>  
+  <message id="35" operation="subPoly(project2.Polynomial):project2.Polynomial" asynchronous="false">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="36"/>  
+  </message>  
+  <message id="38" operation="toString():java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="39"/>  
+  </message>
+</sequence-diagram>
